@@ -5,16 +5,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="mercedes.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+	<style>
+	</style>
 </head>
 <body>
 	<div class="header" style="height:200px;">
-		<h1 style="padding-top:80px;">Mercedes-Benz</h1>
-		<a href="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/main.html" class="s1" style="float:right;margin-right:150px;">На Главную</a>
+		<h1 style="padding-top:60px">Mercedes-Benz</h1>
+		<img src="/mercedes/mercedes.png" style="width:300px;height:200px;;margin-left:250px;margin-top:-120px;">
+
+		<a href="/main.php" class="s1" style="float:right;margin-right:150px;font-size:25px;">На Главную</a>
 	</div>
 	<div class="content">
-		<div style="border-bottom:2px solid black;" class="start">
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/mercedes/mercedeslogo.png" style="float:right;width:400px;height:400px;margin-bottom:20px;">
+		<div style="border-bottom:2px solid black;margin-right:10px;" class="start">
+			<img src="/mercedes/mercedeslogo.png" style="float:right;width:400px;height:400px;margin-bottom:20px;">
 			<p>Mercedes-Benz  (рус. Мерсéдес-Бенц) — торговая марка и одноимённая компания-производитель легковых автомобилей премиального класса, грузовых автомобилей, автобусов и других транспортных средств, входящая в состав немецкого концерна «Daimler AG».</p>
 			<p>Является одним из самых узнаваемых автомобильных брендов во всём мире. Штаб-квартира Mercedes-Benz находится в Штутгарте, Баден-Вюртемберг, Германия.</p>
 			<p>Наименование торговой марки было принято в 1926 году в результате слияния двух конкурирующих фирм, Benz & Cie. (основана Карлом Бенцем) и Daimler-Motoren-Gesellschaft (основана Готлибом Даймлером), в единый концерн — Daimler-Benz. Название бренда образовано от двух наиболее значимых автомобилей объединённых компаний — Mercedes 1901 года и Benz Patent-Motorwagen 1886 года.</p>
@@ -22,9 +25,9 @@
 			<p>По оценке BrandZ, в 2018 году марка входила в список Top 100 Most Valuable Global Brands, где занимала 46 место среди наиболее дорогих брендов со стоимостью в 25,684 млн долларов.</p>
 		</div>
 		
-		<div style="border-bottom:2px solid black;">
+		<div style="border-bottom:2px solid black;margin-right:10px;">
 			<h2 style="padding-left:25px;border-bottom:2px solid black;">История</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\mercedes/mercedes.png" style="width:400px;height:350px;float:right;padding-right:0;margin-right:-400px;">
+			<img src="/mercedes/mercedesdes.jfif" style="float:right;padding-right:0;margin-right:-400px;">
 			<p> История марки Mercedes-Benz слагается из историй двух известных немецких автомобильных компаний — Benz & Cie. (основана Карлом Бенцем в 1883 году) и Daimler-Motoren-Gesellschaft (основана Готлибом Даймлером в 1890 году).
 			Обе компании развивались самостоятельно до 1926 года, когда они объединились в единый концерн Daimler-Benz, впоследствии переименованный в Daimler AG.</p><br>
 
@@ -52,9 +55,9 @@
 			Всего с момента начала производства в 1886 году и до объединения с «Даймлер-Моторен-Гезелльшафт» в 1926 году, фирма «Бенц и Ко.» произвела 47 555 транспортных средств, включая легковые автомобили, грузовики и омнибусы.</p>
 		</div>
 		
-		<div style="border-bottom:2px solid black">
+		<div style="border-bottom:2px solid black;margin-right:10px;">
 		
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\mercedes/mercww21.jpg" style="float:right;height:150px;margin-top:10px;">
+			<img src="/mercedes/mercww21.jpg" style="float:right;height:150px;margin-top:10px;">
 			<h2>Вторая мировая война</h2>
 			Во время Второй мировой войны концерн Daimler-Benz выпускал как грузовики, так и легковые автомобили различных классов.
 			Однако двухнедельная воздушная бомбардировка англо-американскими ВВС в сентябре 1944-го года превратили Daimler-Benz Aktiengesellschaft в руины.
@@ -67,9 +70,9 @@
 
 	
 	
-		<div style="border-bottom:2px solid black">
+		<div style="border-bottom:2px solid black;margin-right:10px;">
 			<h2>Послевоенное время</h2>
-				<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/mercedes/mercww22.jpg" style="float:right;">
+				<img src="/mercedes/mercww22.jpg" style="float:right;">
 				<p>На послевоенное восстановление разрушенных заводов потребовалось время, поэтому автомобильное производство было начато только в июне 1946 года.
 				Для разработки новых автомобилей не было ни технической базы, ни средств, поэтому первым послевоенным автомобилем стал седан W136 — «170V».
 				Хотя конструкция была разработана ещё в середине 1930-х годов, малолитражный автомобиль с мотором всего 38 лошадиных сил стал началом новой истории марки.
@@ -86,9 +89,9 @@
 				<p>Всего за девять лет (выпуск завершился в сентябре 1955 года) построено соответственно 151 042 и 18 514 автомобилей «170» и «220».
 				Благодаря им компания смогла создать прочный фундамент, на котором она станет ведущим автомобильным производителем в Западной Европе.</p>
 			</div>
-		<div style="float:left" style="border-bottom:2px solid black;" class="newage">
+		<div style="float:left" style="border-bottom:2px solid black;margin-right:10px;" class="newage">
 			<h2>Новая эпоха</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/mercedes/mercnewage.jpg" style="float:right;">
+			<img src="/mercedes/mercnewage.jpg" style="float:right;">
 			Модель «600» завершила обновление всего модельного ряда компании.
 			Годы выпуска этих автомобилей как раз совпали с расцветом ФРГ как новой экономической силы Западной Европы, что говорит и о масштабах производства и об экспортном успехе автомобилей.
 			К середине 1960-х Mercedes-Benz утвердился в лидерах немецкой автопромышленности.
@@ -101,6 +104,7 @@
 			Они продемонстрировали высочайший технический уровень автомобилей этой марки. Главным символом новой эпохи стал квадратный кузов, но с чётким американским влиянием в виде «плавников» на задних крыльях.
 			У автомобиля также имелись версии купе и кабриолет. Мода на плавники также перешла на автомобили среднего класса W110.
 			В 1961 году Mercedes-Benz выпустил роскошную версию, основанную на 111-м 300SE W112, также имевшую версии купе и кабриолета.</p>
+			<img src="/mercedes/mercnewage2.jpg" style="float:right;width:700px;height:400px;">
 
 			<p>Но мода на плавники ушла так же быстро, как и пришла, а компания продолжала вводить новые и более роскошные модели.
 			В 1963 году появились две новые модели. Первой стала SL «Пагода» с уникальной крышей (её средняя часть была ниже боковин). Автомобиль выпускался в трёх сериях: 230SL, 250SL и 280SL.
@@ -124,7 +128,7 @@
 		
 		
 		
-		<div style="border-bottom:2px solid black">
+		<div style="border-bottom:2px solid black;margin-right:10px;">
 			<h2>Легковые автомобили</h2>
 			<p>Нынешняя классификация легковых автомобилей разработана в середине 1990-х годов.
 			Каждый класс (нем. Klasse) обозначает тип кузова и рыночный сегмент, например: SL — Sport Leicht («спортивный, лёгкий» — родстер); CLK — Comfort-Leicht-Kurz («комфортный, лёгкий, укороченный» — купе среднего размера); G — Geländewagen (внедорожник) и тому подобное.
@@ -132,7 +136,7 @@
 			Так, например, M-класс назвали GLE-классом, а GL-класс — GLS.</p>
 			<p>По состоянию на начало 2017 года под торговой маркой Mercedes-Benz выпускаются следующие автомобили:
 			<ul>
-				<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmw1.jfif" style="float:right;padding-top:50px;">
+				<img src="/mercedes/mercedes2.jpg" style="float:right;padding-top:250px;">
 				<li><h3>А</h3>-класс хэтчбек/седан</li>
 				<li><h3>B</h3>-класс семейный/субкомпактвэн</li>
 				<li><h3>C</h3>-класс седан/купе/универсал/кабриолет</li>
@@ -152,9 +156,9 @@
 				<li><h3>Mercedes-AMG GT</h3> суперкар</li>
 			</ul>
 		</div>
-		<div style="border-bottom:2px solid black;">
+		<div style="border-bottom:2px solid black;margin-right:10px;">
 			<h2>Тюнинг</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/mercedes/mercedes1.jpeg" style="float:right;">
+			<img src="/mercedes/mercedes1.jpeg" style="float:right;">
 			<p>Автомобили марки Mercedes-Benz популярны среди требовательных покупателей, поэтому большое число компаний занимаются настройкой и доводкой автомобилей данного бренда.</p>
 
 			<p>Среди наиболее известных фирм можно выделить следующие:</p>
@@ -173,7 +177,7 @@
 		</div> 
 		<div style="border-bottom:2px solid black;">
 			<h2>Mercedes-Benz Center</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\mercedes/mercmus.jpg" style="float:right;">
+			<img src="/mercedes/mercmus.jpg" style="float:right;margin-right:10px;">
 			<p>Mercedes-Benz Center — большой комплекс учреждений, самое значимое из которых — музей Mercedes-Benz — является автомобильным музеем, расположенным в городе Штутгарт (родина марки), Германия.
 			В комплекс также входит штаб-квартира компании.
 			К Mercedes-Benz Center можно отнести Мерседес-Бенц-Арену, являющуюся домашним стадионом футбольного клуба Штутгарт.
@@ -192,11 +196,52 @@
 	
 	
 	<div class="footer">
-		<p style="margin-right:150px;margin-top:150px;float:right;"><a href="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/main.html" class="s1">На Главную</a></p>
-		<p><b>Напишите ваше мнение об этой марке=)</b></p>
-		<p><textarea rows="10" cols="150" name="bmwtext"></textarea></p>
-		<p><input type="submit" value="Отправить" class ="btn btn-success"></p>
+		<div style="margin-left:0px;margin-top:10px;border-bottom:1px solid black;padding-bottom:20px;margin-right:10px;">
+		<h2>Вот отзывы по этой марке:</h2>
+		<?php
+			$text_comment = filter_var(trim($_POST['text_comment']),
+			FILTER_SANITIZE_STRING);
+			$page_name="mercedes";
+			$name=$_COOKIE['user'];
+			$mysql = new mysqli('localhost','root','','site');
+			$query ="SELECT `name`,`text_comment`,`id` FROM `comments` WHERE `page_name`='$page_name'";
+ 
+			$result = mysqli_query($mysql, $query); 
+			if($result)
+			$rows = "";
+				while($rows = $result->fetch_assoc()){
+					echo "<div style=\"padding:20px;border:1px solid black;border-radius:10px;\"><b>".$rows["name"].":</b>  ".$rows["text_comment"]."";					
+				if(isset($_COOKIE['admin'])){
+					echo "
+					<div style=\"float:right\"><form action=\"delcom.php\" method=\"POST\">
+						<p>Отметьте галочку, чтобы удалить комментарий: <input type=\"checkbox\" name=\"delcom\" value=".$rows["id"].">
+						<input type=\"submit\" value=\"Подтвердить\"></p>
+						</form>
+						</div>";
+				}echo "</div>";
+				}
+				mysqli_free_result($result);
+				mysqli_close($mysql);
+		?>
+		</div><br>
+	
+		<?php if(empty($_COOKIE['user'])):?>
+			<p class="error">Чтобы оставить комментарий, <a href="/main.php" class="s1">войдите</a> или <a href="/reg.php" class="s1">зарегистрируйтесь</a>.</p>
 		
+		<?php else:?>
+		<div style="height:400px">
+			<p style="margin-right:150px;margin-top:150px;float:right;font-size:30px"><a href="/main.php" class="s1">На Главную</a></p>
+			<p><b>Напишите ваше мнение об этой марке=)</b></p>
+			<form action="comment.php" method="post">
+			<p >
+				<label>Комментарий:</label><br>
+				<textarea required name="text_comment" cols="100" rows="5"></textarea><br>
+				<input type="submit" value="Отправить" >
+				<input hidden value="<?php echo "$page_name";?>" name="page_name">
+			</p>
+			</form>
+		</div>
+		<?php endif;?>
 	</div>
 
 
