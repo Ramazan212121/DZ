@@ -9,12 +9,12 @@
 </head>
 <body>
 	<div class="header" style="width:1500px; height=500px;">
-		<h1>BMW-Любимец Давидыча <img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/davidych.png" style="float:center;"></h1>
-		<a href="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/main.html" class="s1" style="float:right;padding-right:150px;">На Главную</a>
+		<h1>BMW-Любимец Давидыча <img src="/bmw/davidych.png" style="float:center;"></h1>
+		<a href="/main.php" class="s1" style="float:right;margin-right:150px;font-size:25px;margin-top:-60px">На Главную</a>
 	</div>
 	<div class="content">
 		<div style="border-bottom:2px solid black;" class="start">
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmwlogo.jfif" style="float:right;">
+			<img src="/bmw/bmwlogo.jfif" style="float:right;">
 			<p>BMW AG (аббревиатура от Bayerische Motoren Werke AG, с нем.«Баварские моторные заводы») — немецкий производитель автомобилей, мотоциклов, двигателей, а также велосипедов. 
 			Председателем компании до 2015 года был Норберт Райтхофер, с мая 2015 года — Харальд Крюгер, с 18 июля 2019 года — Оливер Ципсе. Главный дизайнер — Йозеф Кабан.
 			Девиз компании — «Freude am Fahren», с нем.«С удовольствием за рулём».
@@ -24,7 +24,7 @@
 		<div style="border-bottom:2px solid black">
 			<h2>Вторая мировая война</h2>
 			<p>В годы накануне и во время Второй мировой войны компания существенно диверсифицировала спектр направлений своей деятельности, включив вдобавок к моторо- и машиностроению (которые интенсифицировались за счёт наращивания производственных мощностей и привлечения бесплатных трудовых ресурсов в виде пригнанных в большом количестве остарбайтеров) такие сферы деятельности, как ракетная техника и ракетное вооружение, управляемое оружие и другие высокотехнологические, передовые на тот момент направления работы.</p>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmwi8.jfif" style="float:right;padding:10px 10px 10px 10px;">
+			<img src="/bmw/bmwi8.jfif" style="float:right;padding:10px 10px 10px 10px;">
 			<p>Штаты научных, инженерно-технических и лабораторных подразделений компании были многократно увеличены.</p></p>
 			<p>К началу 1940-х годов подразделение ракетного вооружения интенсифицировало свои эксперименты и осенью 1940 года уже было готово к развёртыванию серийного производства ряда разработанных им образцов, что не произошло по независящим от руководства компании причинам, поэтому основным направлением работы бранденбургских заводов BMW было производство реактивных двигателей для военных реактивных самолётов.</p>
 			<p>В сфере разработки вооружения и военной техники учёным и инженерам компании удалось забежать далеко вперёд и опередить своё время настолько, что результаты их работы даже в самом Рейхе оказались востребованы только через несколько лет, на завершающем этапе войны, а в странах антигитлеровской коалиции они стали доступны только в послевоенное время (на основе вывезенной из Германии проектно-технической документации и с использованием немецких же учёных). </p>
@@ -38,7 +38,7 @@
 	
 		<div style="border-bottom:2px solid black">
 			<h2>После войны...</h2>
-				<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmwold.jpeg" style="float:right;">
+				<img src="/bmw/bmwold.jpeg" style="float:right;">
 				<p>В апреле 1945 года Красная Армия заняла Бранденбургский промышленный район и все расположенные там предприятия BMW, все документы были конфискованы, некоторые здания использовались в качестве тюрем.
 				К 1948 году советские оккупационные власти демонтировали все бранденбургские заводы BMW, промышленные здания и сооружения были взорваны и снесены, поскольку советское руководство опасалось, что в случае начала войны с бывшими западными союзниками восточно-немецкое население охотно встанет на их сторону, а развитая промышленность Восточной Германии вновь заработает против СССР.</p><br>
 				<p>Могущественный в довоенную эпоху концерн BMW оказался после Второй мировой войны в критическом положении во многом из-за запрета на производство составлявших основу её бизнеса авиационных двигателей и уничтожения или занятия противниками Германии по мировой войне заводов концерна в Мюнхене (Американская зона оккупации Германии) и Айзенахе (Советская военная администрация Германии).
@@ -49,7 +49,7 @@
 		</div>
 		<div style="float:left" style="border-bottom:2px solid black" class="moto">
 			<h2>Производство лёгких мотоциклов</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmwmoto.jpg" style="float:right;">
+			<img src="/bmw/bmwmoto.jpg" style="float:right;">
 			<p>Однако персоналу компании удалось спасти BMW за счёт выпуска хозтоваров и велосипедов, что изменило решение американцев о сносе завода.
 			Впоследствии было получено разрешение на производство и лёгких мотоциклов, так в 1948 году мотоцикл R24 из Мюнхена стал первым послевоенным изделием BMW. 
 			Как и его предшественник 1930-х годов, R24 комплектовался фирменной карданной передачей BMW, окрашивался в чёрный цвет и имел белую обивку коляски.</p><br>
@@ -59,7 +59,7 @@
 		<div style="border-bottom:2px solid black">
 			<h2>Значимые даты в истории BMW</h2>
 			<ul>
-				<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmw1.jfif" style="float:right;padding-top:50px;">
+				<img src="/bmw/bmw1.jfif" style="float:right;padding-top:50px;">
 				<li>1951 — BMW производит свой первый послевоенный автомобиль — 501.</li>
 				<li>1954 — BMW становится чемпионом мира в гонках мотоциклов с колясками и удерживает мировое первенство следующие двадцать лет.</li>
 				<li>1955 — 	Отделение BMW Triebwerk GmbH возвращается к жизни. Компания ориентируется на традиции производства авиамоторов. Следующим шагом на пути к успеху стало изменение политики компании BMW с целью популяризации своей продукции у среднего класса. А первым массовым автомобилем в послевоенные годы стала BMW Isetta. Идея создания миниатюрной машины принадлежала итальянской компании Iso, а созданный ей прототип кузова был куплен немцами.</li>
@@ -73,7 +73,7 @@
 		</div>
 		<div>
 			<h2>Деятельность</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/bmw/bmw3.jfif" style="float:right;">
+			<img src="/bmw/bmw3.jfif" style="float:right;">
 			<p>Концерн BMW в 2007 году выпустил 1 203 482 автомобилей (падение составило 7,6 % по сравнению с аналогичным периодом 2006 года). BMW намерены уже в 2020 году увеличить производство на 25 %. Таким образом, выпустив в 2016 году 2,4 млн экземпляров авто, через 3,5 года BMW планирует выпускать не менее 3 млн.</p>
 			<p>Основным конкурентом BMW на рынке легковых автомобилей является Mercedes-Benz. Также конкуренцию фирме составляют автомобили Audi и Lexus.</p>
 			<p>Член Ассоциации европейских производителей автомобилей (ACEA).
@@ -89,11 +89,52 @@
 	
 	
 	<div class="footer">
-		<p style="margin-right:150px;margin-top:150px;float:right;"><a href="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/main.html" class="s1">На Главную</a></p>
-		<p><b>Напишите ваше мнение об этой марке=)</b></p>
-		<p><textarea rows="10" cols="150" name="bmwtext"></textarea></p>
-		<p><input type="submit" value="Отправить" class ="btn btn-success"></p>
+		<div style="margin-left:0px;margin-top:10px;border-bottom:1px solid black;padding-bottom:20px;margin-right:10px;">
+		<h2>Вот отзывы по этой марке:</h2>
+		<?php
+			$text_comment = filter_var(trim($_POST['text_comment']),
+			FILTER_SANITIZE_STRING);
+			$page_name="bmw";
+			$name=$_COOKIE['user'];
+			$mysql = new mysqli('localhost','root','','site');
+			$query ="SELECT `name`,`text_comment`,`id` FROM `comments` WHERE `page_name`='$page_name'";
+ 
+			$result = mysqli_query($mysql, $query); 
+			if($result)
+			$rows = "";
+				while($rows = $result->fetch_assoc()){
+					echo "<div style=\"padding:20px;border:1px solid black;border-radius:10px;\"><b>".$rows["name"].":</b>  ".$rows["text_comment"]."";					
+				if(isset($_COOKIE['admin'])){
+					echo "
+					<div style=\"float:right\"><form action=\"delcom.php\" method=\"POST\">
+						<p>Отметьте галочку, чтобы удалить комментарий: <input type=\"checkbox\" name=\"delcom\" value=".$rows["id"].">
+						<input type=\"submit\" value=\"Подтвердить\"></p>
+						</form>
+						</div>";
+				}echo "</div>";
+				}
+				mysqli_free_result($result);
+				mysqli_close($mysql);
+		?>
+		</div><br>
+	
+		<?php if(empty($_COOKIE['user'])):?>
+			<p class="error">Чтобы оставить комментарий, <a href="/main.php" class="s1">войдите</a> или <a href="/reg.php" class="s1">зарегистрируйтесь</a>.</p>
 		
+		<?php else:?>
+		<div style="height:400px">
+			<p style="margin-right:150px;margin-top:150px;float:right;font-size:30px"><a href="/main.php" class="s1">На Главную</a></p>
+			<p><b>Напишите ваше мнение об этой марке=)</b></p>
+			<form action="comment.php" method="post">
+			<p >
+				<label>Комментарий:</label><br>
+				<textarea required name="text_comment" cols="100" rows="5"></textarea><br>
+				<input type="submit" value="Отправить" >
+				<input hidden value="<?php echo "$page_name";?>" name="page_name">
+			</p>
+			</form>
+		</div>
+		<?php endif;?>
 	</div>
 
 
