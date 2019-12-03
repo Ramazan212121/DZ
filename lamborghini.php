@@ -10,8 +10,8 @@
 <body>
 	<div class="header" style="height:200px;">
 		<h1 style="padding-top:80px;">Lamborghini</h1>
-		<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/lamblogo.png" style="margin-left:250px;margin-top:-140px;width:200px;height:200px;">
-		<a href="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/main.html" class="s13" style="float:right;margin-right:150px;font-size:25px;margin-top:-70px;">На Главную</a>
+		<img src="/lamborghini/lamblogo.png" style="margin-left:250px;margin-top:-140px;width:200px;height:200px;">
+		<a href="/main.php" class="s13" style="float:right;margin-right:150px;font-size:25px;margin-top:-70px;">На Главную</a>
 	</div>
 	<div class="content">
 		<div style="border-bottom:2px solid black;">
@@ -23,7 +23,7 @@
 		<div style="border-bottom:2px solid black;">
 		<h2 style="padding-bottom:20px;">История</h2>
 		<p>В начале 1960-х годов Ферруччо Ламборгини был владельцем нескольких компаний и мог себе позволить приобретать дорогие автомобили. В разное время у него были Mercedes 300SL, несколько Maserati 3500 GT, Jaguar E-type. Он также владел несколькими Ferrari 250 GT, разных версий. Но в каждом автомобиле он находил некоторые недочёты.</p>
-		<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/lamb1.jpg" style="float:right;width:500px;height:300px;">
+		<img src="/lamborghini/lamb1.jpg" style="float:right;width:500px;height:300px;">
 
 		<p>Существует несколько версий о причинах, по которым Ламборгини основал собственную фирму. Все эти версии сводятся к конфликту между Энцо Феррари (владельцем компании Ferrari) и Ферруччо Ламборгини. Наиболее популярная версия, рассказанная сыном Ферруччо Ламборгини, гласит, что Ламборгини приехал на фабрику к Энцо Феррари пожаловаться на качество сцепления в своём автомобиле Ferrari 250 GT. Энцо отправил Ламборгини обратно с пожеланием и дальше заниматься тракторами, потому что в автомобилях, а тем более спортивных, Ламборгини ничего не понимает. Ламборгини вернулся на фабрику, разобрал трансмиссию в своём Ferrari 250 GT и обнаружил, что производитель многих деталей тот же, что и в тракторах Lamborghini. На своих складах он нашёл подходящую замену, и после сборки проблема была решена.</p>
 
@@ -35,7 +35,7 @@
 		<p>В 1971 году Lamborghini снова удивил мир прототипом новой революционной модели Lamborghini Countach. Хотя сам автомобиль начал производиться только тремя годами позже (в 1974), до этого времени он оставался в центре внимания на любом автошоу. Прототип имел новомодные тогда вертикально открывающиеся двери, задние воздухозаборники и мощный 4-литровый двигатель.</p>
 
 		<p>Однако в 1972 году у компании случился серьёзный кризис — был прерван контракт на поставку крупной партии тракторов в Южную Америку. Недостаток средств вынудил Ферруччо продать часть своей доли тракторного производства, которая была куплена компанией Fiat. В конечном счёте, всё тракторное производство перешло под владение Same Deutz-Fahr Group, которая и производит трактора Lamborghini по сегодняшний день.</p>
-		<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/lamb2.jpg" style="float:right;width:500px;height:300px">
+		<img src="/lamborghini/lamb2.jpg" style="float:right;width:500px;height:300px">
 		<p>В течение семидесятых годов успешные продажи Lamborghini Countach поддерживали компанию на плаву. Вскоре автомобильное производство стало самодостаточным и прибыльным, но, тем не менее, Ламборгини продал свою долю компании швейцарским инвесторам — Жоржу-Анри Росетти (Georges-Henri Rossetti) и Рене Леймеру (René Leimer). Феруччо Ламборгини умер в 1993 году в возрасте 76 лет.</p>
 
 		<p>В результате нефтяного кризиса 1970-х годов продажи спортивных автомобилей резко упали. Компания, в числе других, столкнулась с финансовыми проблемами, поставки запасных частей были сорваны, заказы на автомобили были распроданы на 2 года вперёд и покупатели были весьма недовольны таким сроком ожидания. Как результат, в 1978 году компания объявила себя банкротом. Итальянский суд был вынужден продать компанию. Она была куплена братьями Мимрам из Швейцарии.</p>
@@ -56,7 +56,7 @@
 			<p>Ферруччо Ламборгини установил за правило, что автомобили Ламборгини не участвуют в гонках, поэтому в годы его руководства компания не производила гоночных автомобилей.</p>
 
 			<p>Но, уже оказавшись под руководством Розетти, компания вместе с BMW решила создать автомобиль, пригодный для автогонок. Однако Ламборгини со своей частью задачи не справилась, и автомобиль был целиком разработан спортивным отделением BMW. Позднее он поступил в производство и продажу как BMW M1.</p>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/labm3.jpg" style="float:right;width:300px;height:200px;">
+			<img src="/lamborghini/labm3.jpg" style="float:right;width:300px;height:200px;">
 
 			<p>В 1986 году для участия в соревнованиях группы «C» компания создала автомобиль Lamborghini QVX. Автомобиль был построен, но проблемы со спонсорами вынудили пропустить сезон. QVX участвовал только в одной непризовой гонке на трассе «Кьялами» (Йоханнесбург) в 1986 году под управлением Тиффа Ниделла (англ. Tiff Needell). Несмотря на то, что автомобиль показал достаточно неплохой результат, программа финансирования была свёрнута.</p>
 
@@ -69,7 +69,7 @@
 			<p>Версия Lamborghini Gallardo для участия в чемпионате FIA GT3 разрабатывается командой Reiter Engineering.</p>
 		</div>
 		<div style="border-bottom:2px solid black;">
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/lambrus.jpg" style="float:right;width:300px;height:200px;margin-top:20px;">
+			<img src="/lamborghini/lambrus.jpg" style="float:right;width:300px;height:200px;margin-top:20px;">
 
 			<h2>В России</h2>
 
@@ -78,10 +78,10 @@
 			<p>Позже, в апреле 2012 года, возвращается в Россию с новым официальным дистрибьютором. По итогам года было продано 6 автомобилей. 10 экземпляров стали результатом продаж 2013 года. В 2014 году продажи выросли до 26 автомобилей; тогда как в 2015 году было реализовано 19 автомобилей. В 2016 году уже в первом квартале были проданы все 25 автомобилей выделенные по квоте.</p>
 		
 		</div>
-		<div style="border-bottom:2px solid black;">
+		<div style="border-bottom:2px solid black;margin-bottom:20px;">
 			<h2>Модели</h2>
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/lamburus.jpg" style="float:right;width:500px;height:350px;margin-top:900px;">
-			<img src="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru\lamborghini/lambmurc.jpg" style="float:right;width:500px;height:350px;margin-top:300px;margin-right:-500px">
+			<img src="/lamborghini/lamburus.jpg" style="float:right;width:500px;height:350px;margin-top:900px;">
+			<img src="/lamborghini/lambmurc.jpg" style="float:right;width:500px;height:350px;margin-top:300px;margin-right:-500px">
 
 			<table style="border:1px solid black; margin-bottom:10px;background-color:azure">
 			<tr><th>Модель</th><th>Годы выпуска</th><th>Двигатель</th><th>Максимальная скорость</th><th>Количество экземпляров</th></tr>
@@ -114,12 +114,52 @@
 	
 	
 	<div class="footer">
-		<p style="margin-right:150px;margin-top:150px;float:right;font-size:30px"><a href="C:\Users\Ванира\Downloads\OSPanel\domains\test.ru/main.html" class="s13">На Главную</a></p>
-		<p><b>Напишите ваше мнение об этой марке=)</b></p>
-		<form method="post" action="">
-			<p><textarea rows="10" cols="150" name="lambtext"></textarea></p>
-			<p><input type="submit" value="Отправить" class ="btn btn-success"></p>
-		</form>
+		<div style="margin-left:0px;margin-top:10px;border-bottom:1px solid black;padding-bottom:20px;margin-right:10px;">
+		<h2>Вот отзывы по этой марке:</h2>
+		<?php
+			$text_comment = filter_var(trim($_POST['text_comment']),
+			FILTER_SANITIZE_STRING);
+			$page_name="lamborgini";
+			$name=$_COOKIE['user'];
+			$mysql = new mysqli('localhost','root','','site');
+			$query ="SELECT `name`,`text_comment`,`id` FROM `comments` WHERE `page_name`='$page_name'";
+ 
+			$result = mysqli_query($mysql, $query); 
+			if($result)
+			$rows = "";
+				while($rows = $result->fetch_assoc()){
+					echo "<div style=\"padding:20px;border:1px solid black;border-radius:10px;\"><b>".$rows["name"].":</b>  ".$rows["text_comment"]."";					
+				if(isset($_COOKIE['admin'])){
+					echo "
+					<div style=\"float:right\"><form action=\"delcom.php\" method=\"POST\">
+						<p>Отметьте галочку, чтобы удалить комментарий: <input type=\"checkbox\" name=\"delcom\" value=".$rows["id"].">
+						<input type=\"submit\" value=\"Подтвердить\"></p>
+						</form>
+						</div>";
+				}echo "</div>";
+				}
+				mysqli_free_result($result);
+				mysqli_close($mysql);
+		?>
+		</div><br>
+	
+		<?php if(empty($_COOKIE['user'])):?>
+			<p class="error">Чтобы оставить комментарий, <a href="/main.php" class="s1">войдите</a> или <a href="/reg.php" class="s1">зарегистрируйтесь</a>.</p>
+		
+		<?php else:?>
+		<div style="height:400px">
+			<p style="margin-right:150px;margin-top:150px;float:right;font-size:30px"><a href="/main.php" class="s1">На Главную</a></p>
+			<p><b>Напишите ваше мнение об этой марке=)</b></p>
+			<form action="comment.php" method="post">
+			<p >
+				<label>Комментарий:</label><br>
+				<textarea required name="text_comment" cols="100" rows="5"></textarea><br>
+				<input type="submit" value="Отправить" >
+				<input hidden value="<?php echo "$page_name";?>" name="page_name">
+			</p>
+			</form>
+		</div>
+		<?php endif;?>
 	</div>
 
 
