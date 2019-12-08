@@ -8,10 +8,7 @@
 	$text=filter_var(trim($_POST['text']),
 	FILTER_SANITIZE_STRING);
 	
-	$photo=filter_var(trim($_POST['photo']),
-	FILTER_SANITIZE_STRING);
-	
-	$now = date("Y-d-m H:i:s");
+	$photo=addslashes(file_get_contents($_FILES['photo']['tmp_name']));
 	
 	$mysql = new mysqli('localhost','root', '' ,'site');
 
@@ -22,3 +19,4 @@
 	header('Location:/adminpanel.php');
 	
 ?>
+	
