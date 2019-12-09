@@ -16,10 +16,10 @@
 	FILTER_SANITIZE_STRING);
 	
 	if(mb_strlen($login) < 5 || mb_strlen($_login) > 90){
-			echo "Недопустимая длина логина ";
+			set_message( "Недопустимая длина логина ");
 			exit();
 	}elseif ($_password != $_password1){
-			echo "Вы неправильно подтвердили пароль";
+			set_message("Вы неправильно подтвердили пароль");
 			exit();
 	}
 	$password=md5($password);
