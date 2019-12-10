@@ -9,8 +9,7 @@
 	$mysql=new mysqli('localhost','root','','site');
 		$mysql->query("INSERT INTO `marks` (`mark`,`start`,`text`,`photo`)
 		VALUES('$mark','$start','$text','$photo')");
-		$mysql->query("INSERT INTO `justmarks` (`mark`)
-		VALUES('$mark')");
+
 
 	
 
